@@ -82,3 +82,8 @@ git clone https://github.com/your-username/budgetify-react.git
 ```bash
  cd budget-react
 ```
+
+### Deployment
+
+The app is deployed on Netlify. You can access the live version [here](https://nachawati-budget-app.netlify.app/)
+.
