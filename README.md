@@ -2,7 +2,7 @@
 
 Welcome to the **Budgetify React App** repository! This project is a personal finance management application built using React and TypeScript. The application is designed to help users manage their incomes, expenses, savings, and set financial goals efficiently. Below are the requirements and features implemented in this application.
 
-![Alt text](budget-app.png)
+![Alt text](./public/budget-app.png)
 
 ## Project Overview
 
